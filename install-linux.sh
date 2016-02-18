@@ -7,6 +7,7 @@ cd js-html-snippets
 echo "Installing..."
 
 if [[ `whoami` == "root" ]]; then  # Not 'whoami' -eq
+    echo "Please, run this not as a root user" 
     exit
 fi
 
