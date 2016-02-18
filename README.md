@@ -20,7 +20,7 @@ You just need to write the trigger and hit tab or enter.
 
 ## Snippets
 
-The triggers is inside the brackets in the list below.
+The triggers are inside the brackets in the list below.
 
 ### JavaScript
 
