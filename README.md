@@ -16,9 +16,11 @@ curl -kL https://raw.github.com/jrmatos/js-html-snippets/master/install-linux.sh
 
 ## How to use
 
-You just need to write the trigger and hit tab or enter. The trigger is inside the brackets in the list below.
+You just need to write the trigger and hit tab or enter.
 
 ## Snippets
+
+The triggers is inside the brackets in the list below.
 
 ### JavaScript
 
