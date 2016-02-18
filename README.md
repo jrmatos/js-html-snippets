@@ -1,13 +1,15 @@
-# Sublime Text 2/3 - JavaScript And HTML Snippets
+# Sublime Text 3 - JavaScript And HTML Snippets
 
-Write code much more faster using some awesome snippets on your Sublime Text.
+Write code much more faster using some awesome snippets for your Sublime Text.
 
-## How to install
+## Getting started
 
-Download
-> https://github.com/jrmatos/js-html-snippets.git
-> cd js-html-snippets
-> mv
+Linux
+
+```bash
+curl -kL https://raw.github.com/jrmatos/js-html-snippets/master/install-linux.sh | bash
+```
+Or download the directory as a zip file and put all the snippets into the folder proper folder, which is in some path like this: sublime-text-3 > Packages > User
 
 ## How to use
 
