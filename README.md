@@ -71,7 +71,7 @@ catch (e) {
 }
 ```
 
-#### for] for
+#### [for] for
 
 ```js
 for (var i = 0; i < 10; i++) {
