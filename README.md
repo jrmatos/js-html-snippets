@@ -12,7 +12,7 @@ curl -kL https://raw.github.com/jrmatos/js-html-snippets/master/install-linux.sh
 
 #### Downloading for any OS
 
-[Download](https://codeload.github.com/jrmatos/js-html-snippets/zip/master) the directory as a zip file and put all the snippets into the proper folder, which is in some path like this: sublime-text-3 > Packages > User
+[Download](https://codeload.github.com/jrmatos/js-html-snippets/zip/master) the directory as a zip file and put all the snippets into the proper folder that is in some path like this: sublime-text-3 > Packages > User
 
 ### How to use
 
