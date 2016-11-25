@@ -2,7 +2,7 @@
 
 Write code much more faster using some awesome snippets for your Sublime Text.
 
-## Getting started
+### Getting started
 
 #### Linux
 
@@ -14,11 +14,11 @@ curl -kL https://raw.github.com/jrmatos/js-html-snippets/master/install-linux.sh
 
 [Download](https://codeload.github.com/jrmatos/js-html-snippets/zip/master) the directory as a zip file and put all the snippets into the proper folder, which is in some path like this: sublime-text-3 > Packages > User
 
-## How to use
+### How to use
 
 You just need to write the trigger and hit tab or enter.
 
-## Snippets
+### Snippets
 
 The triggers are inside the brackets in the list below.
 
