@@ -1,6 +1,6 @@
 # Sublime Text 3 - JavaScript And HTML Snippets
 
-Write code much more faster using some awesome snippets for your Sublime Text.
+Write code much faster using some awesome snippets for your Sublime Text.
 
 ### Getting started
 
